@@ -1,4 +1,4 @@
-# recipeapp
+# Recipe App
 
 A new Flutter project.
 
